@@ -1,0 +1,7 @@
+{
+  "buildCommand": "cd synergy-sphere-app && npm run build",
+  "outputDirectory": "synergy-sphere-app/.next",
+  "installCommand": "cd synergy-sphere-app && npm install",
+  "devCommand": "cd synergy-sphere-app && npm run dev"
+}
+
